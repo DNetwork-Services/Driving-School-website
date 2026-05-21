@@ -91,7 +91,7 @@ pnpm start
 
 ### Option 1: One-Click Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/driving-school)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=(https://github.com/DNetwork-Services/Driving-School-website.git))
 
 ### Option 2: Vercel CLI
 
