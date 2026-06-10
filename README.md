@@ -33,8 +33,8 @@ A modern, SEO-optimized website for a driving school in Savada, Raver, Jalgaon, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/driving-school.git
-   cd driving-school
+   git clone https://github.com/DNetwork-Services/Driving-School-website.git
+   cd Driving-School-website
    ```
 
 2. **Install dependencies**
